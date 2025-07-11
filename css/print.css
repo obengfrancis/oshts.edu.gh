@@ -1,0 +1,16 @@
+@page
+{
+size: A4;
+margin: 0;
+}
+
+#submit-btn
+{
+display: none;
+visibility: none;
+}
+
+.form-group{
+	border:none;
+	visibility: none;
+}

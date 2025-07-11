@@ -1,0 +1,9 @@
+/*CSS DOCUMENT*/
+.carousel{top: -80px;}
+.my-nav{z-index: 200; background-color: transparent;}
+.my-nav .nav-link{color: aliceblue;}
+.navbar-brand{color: aliceblue;}
+
+.carousel h5{color: deeppink; font-size: 50px  }
+.carousel h4{color: lightcoral; font-size: 20px; font-weight: bold;}
+
